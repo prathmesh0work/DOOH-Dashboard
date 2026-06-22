@@ -129,7 +129,7 @@ dooh-dashboard-repo/
 1. Click the **[Live Dashboard link](https://datastudio.google.com/reporting/c3181438-6a34-4cd3-8395-4bb6f93bf60d)** to open in Looker Studio
 2. Use the **filter dropdowns** (City, Campaign, Industry, Date) to explore specific segments
 3. Click **RESET** to clear all filters and return to the full view
-4. For a static snapshot, refer to the **[PDF Report](./DOOH_advertising_Report.pdf)**
+4. For a static snapshot, refer to the **[PDF Report](https://github.com/prathmesh0work/DOOH-Dashboard/blob/dc4cfc7029ca336c3480524d6f94e2406927b31e/DOOH_advertising_Report%20(2).pdf)**
 
 ---
 
