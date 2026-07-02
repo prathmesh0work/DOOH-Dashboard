@@ -5,6 +5,7 @@
 [![Dashboard](https://img.shields.io/badge/Live%20Dashboard-View%20Now-blue?style=for-the-badge&logo=googleanalytics)](https://datastudio.google.com/reporting/c3181438-6a34-4cd3-8395-4bb6f93bf60d)
 [![Platform](https://img.shields.io/badge/Platform-Looker%20Studio-orange?style=for-the-badge&logo=google)](https://lookerstudio.google.com)
 [![Industry](https://img.shields.io/badge/Domain-DOOH%20Advertising-green?style=for-the-badge)](https://datastudio.google.com/reporting/c3181438-6a34-4cd3-8395-4bb6f93bf60d)
+![Google Data Studio](https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=flat-square&logo=lookerstudio&logoColor=white)
 
 ---
 
